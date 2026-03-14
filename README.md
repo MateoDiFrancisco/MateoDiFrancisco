@@ -1,16 +1,31 @@
-## Hi there 👋
+## ¡Hola! Soy Mateo Di Francisco
+Soy un desarrollador fullstack especializado en el ecosistema de **Angular** para el frontend y **Java/Spring Boot** para el backend.
 
-<!--
-**MateoDiFrancisco/MateoDiFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### Sobre mí
+- **Técnico en Programación** - Recibido recientemente en la UTN FRC (Córdoba, Argentina).
+- Enfocado en el desarrollo de aplicaciones modernas con **Angular**.
+- Buscando mi primera oportunidad laboral para aportar valor y seguir creciendo profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Mi Stack Tecnológico
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,java,spring,docker,postgres,mysql&theme=dark)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDiFrancisco&layout=compact&theme=radical)
+
+
+---
+### Actualmente estoy aprendiendo
+Por el momento estoy aprendiendo **Python** junto con **FastAPI**.
+
+
+---
+### Como contactarme
+- **Email:** [mateodifrancisco1@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mateodifrancisco1@gmail.com)
+- **Linkedin:** 
+
+
+<!-- Cuando use mas Github agregar esta linea a mi perfil. -->
+<!--![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MateoDiFrancisco&show_icons=true&theme=radical)-->
