@@ -6,6 +6,7 @@ Soy un desarrollador fullstack especializado en el ecosistema de **Angular** par
 ### Sobre mí
 - **Técnico en Programación** - Recibido recientemente en la UTN FRC (Córdoba, Argentina).
 - Enfocado en el desarrollo de aplicaciones modernas con **Angular**.
+- Conocimiento en Metodologías Ágiles (SCRUM) y herramientas como Jira.
 - Buscando mi primera oportunidad laboral para aportar valor y seguir creciendo profesionalmente.
 
 
