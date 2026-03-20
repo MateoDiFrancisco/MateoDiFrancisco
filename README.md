@@ -12,6 +12,11 @@ Soy un desarrollador fullstack especializado en el ecosistema de **Angular** par
 
 ---
 ### Mi Stack Tecnológico
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, Angular 18, Bootstrap
+- Backend: Java 17, Spring Boot, Maven, PostgreSQL, MySQL
+- Base de Datos: PostgreSQL, MySQL
+- Herramientas y Otros: Git/Github, Docker, Metodologías Ágiles (SCRUM), Jira
+    
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,java,spring,docker,postgres,mysql&theme=dark)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDiFrancisco&layout=compact&theme=radical)
